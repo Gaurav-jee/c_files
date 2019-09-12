@@ -42,7 +42,7 @@ int main()
     }
 
 
-    printf("\nthe first row_triplet form is:\n");
+    printf("\nthe row_triplet form is:\n");
 
     for(i=0;i<=c1;i++)
     {
@@ -77,7 +77,7 @@ int main()
 
 
 
-    printf("\n\nthe product row_triplet form is:\n");
+    printf("\n\nthe transpose row_triplet form is:\n");
     for(i=0;i<k;i++)
     {
         for(j=0;j<3;j++)

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567876812 source:c:\users\kiit\onedrive\documents\github\c_files\postfix evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

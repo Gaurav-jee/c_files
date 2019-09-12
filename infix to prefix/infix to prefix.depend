@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567866522 source:c:\users\kiit\onedrive\documents\github\c_files\infix to prefix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

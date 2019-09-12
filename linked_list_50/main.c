@@ -12,7 +12,6 @@ void display();
 
 int main()
 {
-	//struct node *head;
 	int s;
 	while(1)
 	{

@@ -12,17 +12,16 @@ int main()
     int c[s3];
     //printing the polynomial
 
-    for(i=0;i<s1;i++)
+    for(i=0;i<s1;i+=2)
         {
             printf("%dx^%d +",a[i],a[i+1]);
-            i++;
+
         }
 
     printf("\n\t\t+\n");
-    for(i=0;i<s2;i++)
+    for(i=0;i<s2;i+=2)
         {
             printf("%dx^%d +",b[i],b[i+1]);
-            i++;
         }
 
     i=1;
